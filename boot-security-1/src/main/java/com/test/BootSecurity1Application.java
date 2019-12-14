@@ -9,5 +9,4 @@ public class BootSecurity1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(BootSecurity1Application.class, args);
 	}
-
 }
